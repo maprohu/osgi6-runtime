@@ -60,7 +60,7 @@
                                 <artifactItem>
                                     <groupId>osgi6</groupId>
                                     <artifactId>osgi6-multi-bundle</artifactId>
-                                    <version>1.0.14-SNAPSHOT</version>
+                                    <version>1.0.14</version>
                                     <classifier>bundle</classifier>
                                     <overWrite>true</overWrite>
                                     <destFileName>multi-bundle.jar</destFileName>
