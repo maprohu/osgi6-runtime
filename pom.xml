@@ -188,5 +188,9 @@
     </dependencies>
 
 
+    <scm>
+        <developerConnection>scm:git:https://github.com/maprohu/osgi6-runtime.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 
 </project>
